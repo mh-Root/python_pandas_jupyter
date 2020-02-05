@@ -1,5 +1,4 @@
 Příklady použití knihovny pandas<br>
-- <a href = 'https://github.com/mh-Root/python_pandas_jupyter/blob/master/pandas_groupby.ipynb'>Použití funkce 'groupby'</a><br>
 - Načtení dat do pandas (csv, excel, sql)<br>
 - Series z DataFrame<br>
 - Přejmenování sloupců<br>
@@ -10,7 +9,7 @@ Příklady použití knihovny pandas<br>
 - Parametr 'axis'<br>
 - Řetězcové metody v pandas<br>
 - Změna datového typu Series<br>
-- Použítí „groupby“<br>
+- <a href = 'https://github.com/mh-Root/python_pandas_jupyter/blob/master/pandas_groupby.ipynb'>Použití funkce 'groupby'</a><br>
 - Prozkoumání Series v pandas<br>
 - Chybějící hodnoty v pandas<br>
 - Indexy v pandas 1<br>
