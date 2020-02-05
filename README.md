@@ -1,4 +1,6 @@
 #### Příklady použití knihovny pandas<br>
+- Ukázkový příklad 1
+- Ukázkový příklad 2
 - Načtení dat do pandas (csv, excel, sql)<br>
 - Series z DataFrame<br>
 - Přejmenování sloupců<br>
