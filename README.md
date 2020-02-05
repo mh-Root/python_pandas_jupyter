@@ -1,5 +1,5 @@
 #### Příklady použití knihovny pandas<br>
-- Ukázkový příklad 1
+- <a href = https://github.com/mh-Root/python_pandas_jupyter/blob/master/pandas_tutorial_1.ipynb>Ukázkový příklad 1</a>
 - Ukázkový příklad 2
 - Načtení dat do pandas (csv, excel, sql)<br>
 - Series z DataFrame<br>
