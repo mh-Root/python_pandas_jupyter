@@ -45,5 +45,3 @@
 - Změna možnosti zobrazení<br>
 - Tvorba stylu DataFrame<br>
 - Profil DataFrame<br>
-
-This site was built using [GitHub Pages](https://pages.github.com/)
