@@ -43,8 +43,8 @@
 - Rozbalení řady seznamů do DataFrame<br>
 - Agregování podle více funkcí<br>
 - Kombinace výstupu agregace s DataFrame<br>
-- Vyberte část řádků a sloupců<br>
-- Znovu vytvořte sérii MultiIndexed<br>
+- Výběr část řádků a sloupců<br>
+- Vytvoření Series MultiIndexed<br>
 - Vytvoření kontingenční tabulky<br>
 - Převod nepřetržitých dat na kategorická data<br>
 - Změna možnosti zobrazení<br>
