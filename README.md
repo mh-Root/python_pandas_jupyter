@@ -3,7 +3,7 @@
 - <a href = 'https://nbviewer.jupyter.org/github/mh-Root/python_pandas_jupyter/blob/master/pandas_tutorial_2.ipynb'>Ukázkový příklad 2</a><br>
 - <a href = 'https://nbviewer.jupyter.org/github/mh-Root/python_pandas_jupyter/blob/master/excel_tutorial.ipynb'>Ukázka načtení dat ze souboru Excel</a><br>
 - <a href = 'https://nbviewer.jupyter.org/github/mh-Root/python_pandas_jupyter/blob/master/indexy_1.ipynb'>Ukázka použití indexů</a><br>
-- <a href = 'https://nbviewer.jupyter.org/github/mh-Root/python_pandas_jupyter/blob/master/calculated_columns.ipynb'>Výpočty v řádcích a sloupcích</a>
+- <a href = 'https://nbviewer.jupyter.org/github/mh-Root/python_pandas_jupyter/blob/master/calculated_columns.ipynb'>Výpočty v řádcích a sloupcích [+ ukázky barevných výstupů]</a>
 #### Soubor základních poznatků<br>
 - Načtení dat do pandas (csv, excel, sql)<br>
 - Výběr pandas.Series z pandas.DataFrame<br>
