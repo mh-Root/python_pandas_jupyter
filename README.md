@@ -9,7 +9,7 @@
 - Výběr pandas.Series z pandas.DataFrame<br>
 - Přejmenování sloupců<br>
 - Odstranění sloupců<br>
-- Třídění dat DataFrame (Series), výběr kritérií a metody<br>
+- <a href = 'https://nbviewer.jupyter.org/github/mh-Root/python_pandas_jupyter/blob/master/sorting_data_1.ipynb'>Třídění dat DataFrame (Series), výběr kritérií a metody</a><br>
 - Parametr 'axis'<br>
 - Řetězcové metody v pandas<br>
 - Změna datového typu Series<br>
