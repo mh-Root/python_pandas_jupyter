@@ -9,9 +9,7 @@
 - Výběr pandas.Series z pandas.DataFrame<br>
 - Přejmenování sloupců<br>
 - Odstranění sloupců<br>
-- Třídění dat DataFrame nebo Series<br>
-- Filtrování řádků DataFrame podle hodnoty sloupce<br>
-- Použití více kritérií filtru na DataFrame<br>
+- Třídění dat DataFrame (Series), výběr kritérií a metody<br>
 - Parametr 'axis'<br>
 - Řetězcové metody v pandas<br>
 - Změna datového typu Series<br>
