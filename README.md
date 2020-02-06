@@ -6,7 +6,7 @@
 - <a href = 'https://nbviewer.jupyter.org/github/mh-Root/python_pandas_jupyter/blob/master/calculated_columns.ipynb'>Výpočty v řádcích a sloupcích</a>
 #### Soubor základních poznatků<br>
 - Načtení dat do pandas (csv, excel, sql)<br>
-- Series z DataFrame<br>
+- Výběr pandas.Series z pandas.DataFrame<br>
 - Přejmenování sloupců<br>
 - Odstranění sloupců<br>
 - Třídění dat DataFrame nebo Series<br>
