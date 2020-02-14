@@ -3,7 +3,7 @@
 - <a href = 'https://nbviewer.jupyter.org/github/mh-Root/python_pandas_jupyter/blob/master/pandas_tutorial_2.ipynb'>Ukázkový příklad 2</a><br>
 - <a href = 'https://nbviewer.jupyter.org/github/mh-Root/python_pandas_jupyter/blob/master/excel_tutorial.ipynb'>Ukázka načtení dat ze souboru Excel</a><br>
 - <a href = 'https://nbviewer.jupyter.org/github/mh-Root/python_pandas_jupyter/blob/master/indexy_1.ipynb'>Ukázka použití indexů</a><br>
-- <a href = 'https://nbviewer.jupyter.org/github/mh-Root/python_pandas_jupyter/blob/master/calculated_columns.ipynb'>Výpočty v řádcích a sloupcích [+ ukázky barevných výstupů]</a>
+- <a href = 'https://nbviewer.jupyter.org/github/mh-Root/python_pandas_jupyter/blob/master/calculated_columns.ipynb'>Výpočty v řádcích a sloupcích [+ ukázky barevných výstupů]</a><br>
 Výběr dat MSSQL Express
 #### Soubor základních poznatků<br>
 - <a href = 'https://nbviewer.jupyter.org/github/mh-Root/python_pandas_jupyter/blob/master/02_read_tabular_data.ipynb'>Načtení dat do pandas - Excel</a><br>
