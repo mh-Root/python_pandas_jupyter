@@ -51,3 +51,4 @@
 - Změna možnosti zobrazení<br>
 - Tvorba stylu DataFrame<br>
 - Profil DataFrame<br>
+#### Různé
