@@ -7,25 +7,25 @@
 - <a href = 'https://nbviewer.jupyter.org/github/mh-Root/python_pandas_jupyter/blob/master/mssql_data_selection.ipynb'>Výběr dat MSSQL Express</a><br>
 - <a href = 'https://nbviewer.jupyter.org/github/mh-Root/python_pandas_jupyter/blob/master/dataframe_functions.ipynb'>Funkce</a><br>
 #### Soubor základních poznatků<br>
-- <a href = 'https://nbviewer.jupyter.org/github/mh-Root/python_pandas_jupyter/blob/master/02_read_tabular_data.ipynb'>Načtení dat do pandas - Excel</a><br>
+- <a href = 'https://nbviewer.jupyter.org/github/mh-Root/python_pandas_jupyter/blob/master/02_read_tabular_data.ipynb'>Načtení dat - Excel</a><br>
 - Výběr pandas.Series z pandas.DataFrame<br>
 - Přejmenování sloupců<br>
 - Odstranění sloupců<br>
 - <a href = 'https://nbviewer.jupyter.org/github/mh-Root/python_pandas_jupyter/blob/master/sorting_data_1.ipynb'>Třídění dat DataFrame (Series), výběr kritérií a metody</a><br>
 - Parametr 'axis'<br>
-- Řetězcové metody v pandas<br>
+- Řetězcové metody<br>
 - Změna datového typu Series<br>
 - <a href = 'https://nbviewer.jupyter.org/github/mh-Root/python_pandas_jupyter/blob/master/pandas_groupby.ipynb'>Použití funkce 'groupby'</a><br>
-- Prozkoumání Series v pandas<br>
-- Chybějící hodnoty v pandas<br>
-- Indexy v pandas 1<br>
-- Indexy v pandas 2<br>
-- Výběr více řádků a sloupců z pandas DataFrame<br>
+- Prozkoumání Series<br>
+- Chybějící hodnoty<br>
+- Indexy 1<br>
+- Indexy 2<br>
+- Výběr více řádků a sloupců<br>
 - Použití parametru 'inplace'<br>
-- Tvorba dummy proměnné v pandas<br>
-- Práce s daty a časy v pandas<br>
-- Odstranění duplicitní řádky v pandas<br>
-- Možnosti zobrazení v pandas<br>
+- Tvorba dummy proměnné<br>
+- Práce s daty a časy<br>
+- Odstranění duplicitní řádky<br>
+- Možnosti zobrazení<br>
 - Tvorba pandas DataFrame z jiného objektu<br>
 - Použití funkcí na Series nebo DataFrame<br>
 - Jak na obrácené pořadí řádků<br>
