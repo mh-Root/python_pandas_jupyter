@@ -15,7 +15,7 @@
 - Parametr 'axis'<br>
 - Řetězcové metody<br>
 - Změna datového typu Series<br>
-- <a href = 'https://nbviewer.jupyter.org/github/mh-Root/python_pandas_jupyter/blob/master/pandas_groupby.ipynb'>Použití funkce 'groupby'</a><br>
+- <a href = 'https://nbviewer.jupyter.org/github/mh-Root/python_pandas_jupyter/blob/master/pandas_groupby.ipynb'>Použití funkce groupby() ukázka 1.</a><br>
 - Prozkoumání Series<br>
 - Chybějící hodnoty<br>
 - Indexy 1<br>
