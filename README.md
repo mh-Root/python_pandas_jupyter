@@ -52,7 +52,7 @@
 - Tvorba stylu DataFrame<br>
 - Profil DataFrame<br>
 - <a href="https://nbviewer.jupyter.org/github/mh-Root/python_pandas_jupyter/blob/master/pd_selecting_subsets_1.ipynb">Subsets 1</a><br>
-- <a href="ttps://nbviewer.jupyter.org/github/mh-Root/python_pandas_jupyter/blob/master/pd_selecting_subsets_2.ipynb">Subsets 1</a><br>
+- <a href="https://nbviewer.jupyter.org/github/mh-Root/python_pandas_jupyter/blob/master/pd_selecting_subsets_2.ipynb">Subsets 1</a><br>
 - apply lamda<br>
 - astype<br>
 - concatenate<br>
