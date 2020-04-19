@@ -64,5 +64,5 @@
 - metody sub(), add(), div()<br>
 - metoda unstack()<br>
 
-#### Různé
+### Různé
 - <a href="https://nbviewer.jupyter.org/github/mh-Root/python_pandas_jupyter/blob/master/test_for_itertuples_groupby.ipynb">Test: itertuples(), groupby(), get_group()</a>
