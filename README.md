@@ -51,7 +51,7 @@
 - Změna možnosti zobrazení<br>
 - Tvorba stylu DataFrame<br>
 - Profil DataFrame<br>
-- Subsets 1<br>
+- <a href="https://nbviewer.jupyter.org/github/mh-Root/python_pandas_jupyter/blob/master/pd_selecting_subsets_1.ipynb">Subsets 1</a><br>
 - Subsets 2<br>
 - apply lamda<br>
 - astype<br>
