@@ -51,5 +51,18 @@
 - Změna možnosti zobrazení<br>
 - Tvorba stylu DataFrame<br>
 - Profil DataFrame<br>
+- Subsets 1<br>
+- Subsets 2<br>
+- apply lamda<br>
+- astype<br>
+- concatenate<br>
+- merge<br>
+- Multiindex a stack<br>
+- Tabulka Pivot<br>
+- nahrazení hodnot a změna hodnot<br>
+- rozdělení a změna pořadí sloupců<br>
+- metody sub(), add(), div()<br>
+- metoda unstack()<br>
+
 #### Různé
 - <a href="https://nbviewer.jupyter.org/github/mh-Root/python_pandas_jupyter/blob/master/test_for_itertuples_groupby.ipynb">Test: itertuples(), groupby(), get_group()</a>
