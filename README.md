@@ -66,3 +66,4 @@
 
 ### Různé
 - <a href="https://nbviewer.jupyter.org/github/mh-Root/python_pandas_jupyter/blob/master/test_for_itertuples_groupby.ipynb">Test: itertuples(), groupby(), get_group()</a>
+- <a href="https://nbviewer.jupyter.org/github/mh-Root/python_pandas_jupyter/blob/master/brno2.ipynb">Brno</a>
